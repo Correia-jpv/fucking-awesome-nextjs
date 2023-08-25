@@ -35,7 +35,7 @@ _List inspired by the <b><code>266541⭐</code></b> <b><code>&nbsp;26362🍴</co
 - 🌎 [Blog](nextjs.org/blog)
 - 🌎 [Learn](nextjs.org/learn)
 - 🌎 [Vercel TV](vercel.com/tv)
-- 🌎 [Bulletproof Next](getstarted.sh/bulletproof-next)
+- 🌎 [Bulletproof Next](https://github.com/wednesday-solutions/next-bulletproof-ts)
 
 ## Articles
 

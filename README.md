@@ -128,6 +128,9 @@ _List inspired by the <b><code>304886⭐</code></b> <b><code>&nbsp;26897🍴</co
 - <b><code>&nbsp;&nbsp;&nbsp;&nbsp;15⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7🍴</code></b> [NextJS Chargebee Subscription](https://github.com/bharathvaj-ganesan/chargebee-saas-stack)) - A Chargebee focused T3 Stack that integrates User Subscriptions, Authentication and Testing. Driven by Prisma ORM.
 - <b><code>&nbsp;&nbsp;5624⭐</code></b> <b><code>&nbsp;&nbsp;1332🍴</code></b> [Next.js Enterprise](https://github.com/Blazity/next-enterprise)) - enterprise-grade boilerplate for high-performance, maintainable apps. Built with Tailwind CSS, RadixUI, TypeScript and more.
 - [Start UI [web]](https://github.com/BearStudio/start-ui-web) - 🚀 opinionated UI starter with TypeScript, React, NextJS, Chakra UI, tRPC, Prisma, TanStack Query, Storybook, Playwright, Formiz
+- <b><code>&nbsp;229⭐</code></b> <b><code>&nbsp;&nbsp;10🍴</code></b> [Cult / UI](https://github.com/nolly-studio/cult-ui) - 🤌 Components for Design Engineers. Shadcn style copy and paste. Tailwindcss, Open Source, Typescript.
+- [Cult / Templates](https://www.newcult.co) - 🤌 Full Stack Templates for Design Engineers. Next.js, Supabase, Typescript, Shadcn, Tailwindcss, Stripe, Vercel AI.
+
 
 ## Extensions
 

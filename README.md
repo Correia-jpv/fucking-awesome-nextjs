@@ -206,6 +206,7 @@ _List inspired by the <b><code>477205⭐</code></b> <b><code>&nbsp;35477🍴</co
 - <b><code>&nbsp;&nbsp;&nbsp;&nbsp;15⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1🍴</code></b> [Cookie handler with server render](https://github.com/estrada9166/cookie-handler-next.js)) - Cookie handler with server render, access the cookie before render.
 - <b><code>&nbsp;&nbsp;&nbsp;131⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;20🍴</code></b> [Gank](https://github.com/OrangeXC/gank)) - A Next.js App use gank-api, mobx and antd
 - <b><code>&nbsp;&nbsp;&nbsp;&nbsp;30⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3🍴</code></b> [Decoupled CMS example with GraphQL and Next.js](https://github.com/janit/decoupled-cms-nextjs-graphql))
+- 🌎 [UnfoldCMS](unfoldcms.com) - Self-hosted headless CMS with REST API v1 (42 endpoints) + HMAC webhooks, built to power Next.js frontends. <b><code>[integration guide](https://unfoldcms.com/unfoldcms-nextjs-integration)</code></b>
 - 🌎 [Mozilla VR Home](vr.mozilla.org/) - Mozilla VR Home
 - 🌎 [Elton John's website](www.eltonjohn.com) - Elton John's Website
 - 🌎 [IOTA's Data Market Place](data.iota.org/) - IOTA Market Place

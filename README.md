@@ -178,6 +178,7 @@ _List inspired by the <b><code>489093⭐</code></b> <b><code>&nbsp;36062🍴</co
 - <b><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4🍴</code></b> [ShotOG](https://github.com/nicepkg/shotog)) - Dynamic OG image generation API for Next.js apps, powered by Cloudflare Workers.
 - <b><code>&nbsp;&nbsp;&nbsp;635⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;40🍴</code></b> [Frontman](https://github.com/frontman-ai/frontman)) - An open-source AI coding agent that lives in your browser, enabling visual element selection and plain-English code edits with hot reload.
 - <b><code>&nbsp;&nbsp;&nbsp;&nbsp;51⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7🍴</code></b> [@farming-labs/docs](https://github.com/farming-labs/docs)) - A modern documentation framework that works. One config file, zero boilerplate.
+- <b><code>&nbsp;&nbsp;&nbsp;&nbsp;21⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7🍴</code></b> [Payload Components](https://github.com/Ducksss/payload-components)) - An MIT registry and CLI that installs typed Payload CMS blocks into Payload v3 and Next.js projects with the required Payload wiring.
 
 ## Apps
 

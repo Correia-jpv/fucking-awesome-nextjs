@@ -137,6 +137,7 @@ _List inspired by the <b><code>489093⭐</code></b> <b><code>&nbsp;36062🍴</co
 - [Start UI [web]](https://github.com/BearStudio/start-ui-web) - 🚀 opinionated UI starter with TypeScript, React, NextJS, Chakra UI, tRPC, Prisma, TanStack Query, Storybook, Playwright, Formiz
 - <b><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0🍴</code></b> [Kaiforge Lite](https://github.com/DevxiaLabs/kaiforge-lite)) - Free and open-source Next.js admin dashboard template with Tailwind CSS, dark mode, and multiple color themes.
 - <b><code>&nbsp;&nbsp;&nbsp;&nbsp;15⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1🍴</code></b> [A11y Starter Kit](https://github.com/thefrontkit/a11y-starter-kit-code)) - Accessibility-first Next.js starter kit with best practices for building inclusive web apps. Demo: https://a11y-starter-kit.vercel.app/
+- [Next.js Security Headers Starter](https://github.com/poszothebuilder/nextjs-security-headers-starter) - Dependency-free security headers starter with a production URL verifier.
 
 ## Extensions
 

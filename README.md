@@ -8,8 +8,6 @@
 
 _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. You might also like [awesome-tdd](https://github.com/unicodeveloper/awesome-tdd)._
 
-[CA: 9WxL82J5NWGDcFzpWpLGHgntwrFjh9E8dAW76cVHpump](https://pump.fun/coin/9WxL82J5NWGDcFzpWpLGHgntwrFjh9E8dAW76cVHpump)
-
 ## Contents
 
 - [Awesome Next.js ](#awesome-nextjs--)
